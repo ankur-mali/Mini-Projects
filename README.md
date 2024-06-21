@@ -1,1 +1,1 @@
-"# Mini-Projects" 
+These projects demonstrate my proficiency in Java, developed during my initial learning phase. Since then, I have gained a deeper understanding of Java and the Spring Boot platform. For more advanced projects, please visit my other repositories
